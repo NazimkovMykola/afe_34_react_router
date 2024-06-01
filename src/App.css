@@ -1,0 +1,10 @@
+.link {
+    display: block;
+}
+.App {
+    display: flex;
+}
+header {
+    display: flex;
+    flex-direction: column;
+}
